@@ -2,7 +2,7 @@
 title: I'm a markdown file!
 ---
 
-Maybe elea can learn markdown too?
+Maybe ELEA can learn markdown too?
 
 ## You can have lists
 
