@@ -21,13 +21,15 @@ module.exports = React.createClass({
           wrapperStyle={{
             marginBottom: rhythm(1),
           }}
-          
+          style={{
+            background: 'white',
+          }}
         >
           <Container
             style={{
               maxWidth: 960,
-              paddingTop: 0,
-              padding: `${rhythm(1)} ${rhythm(3/4)}`,
+              paddingTop: 20,
+              paddingBottom: 5,
             }}
           >
             <Link
