@@ -21,9 +21,7 @@ module.exports = React.createClass({
           wrapperStyle={{
             marginBottom: rhythm(1),
           }}
-          style={{
-            background: 'lightgray',
-          }}
+          
         >
           <Container
             style={{
@@ -39,7 +37,11 @@ module.exports = React.createClass({
                 textDecoration: 'none',
               }}
             >
-              Gatsby!!!
+              <div className="titlebar">
+                <img className="logo" src="EleaLogoFinal.png"></img>
+                <span className="title firstname">ELEA</span>
+                <span className="title lastname">CROCKETT</span>
+              </div>
             </Link>
           </Container>
         </Headroom>
