@@ -1,0 +1,28 @@
+.titlebar {
+  margin-bottom: 20px;
+}
+.title {
+  font-size: 36pt;
+  font-family: Geneva;
+}
+
+.firstname {
+  color: #4d4d4d;
+}
+
+.lastname {
+  color: #999999;
+}
+
+.logo {
+  margin: 0;
+  width: 63px;
+}
+
+.thumbnail {
+  width: 200px;
+}
+
+.imagebins td {
+  border: 0;
+}
